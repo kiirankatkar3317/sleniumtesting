@@ -37,6 +37,7 @@ public class HomePage extends base {
 		System.out.println("kk4");
 		System.out.println("kk5");
 		System.out.println("kk6");
+		System.out.println("kk7");
 		
 		
 
