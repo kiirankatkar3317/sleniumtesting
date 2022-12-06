@@ -31,6 +31,7 @@ public class HomePage extends base {
 		lp.Password().sendKeys(pass);
 		System.out.println(user);
 		System.out.println("kk");
+		System.out.println("kk1");
 		lp.Button().click();
 	}
 
