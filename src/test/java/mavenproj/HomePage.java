@@ -34,6 +34,7 @@ public class HomePage extends base {
 		System.out.println("kk1");
 		System.out.println("kk2");
 		System.out.println("kk3");
+		System.out.println("kk4");
 		lp.Button().click();
 	}
 
